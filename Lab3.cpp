@@ -96,6 +96,7 @@ int main()
 {
 	//short n = 0;
 	//long n = 0;
+	//float n = 0;
 	double n = 0;
 
 	cout << "Enter a value for n: ";
